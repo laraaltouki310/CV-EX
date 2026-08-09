@@ -1,0 +1,22 @@
+th{
+    background-color: pink;
+}
+img{
+    border-radius: 400px;
+    border-style:double;
+    border-color: palevioletred;
+}
+h1{
+    border-radius: 200px;
+    border-style: solid;
+    border-color: palevioletred;
+}
+.r{
+    background-color: pink;
+}
+h2{
+    border-radius: 200px;
+    border-style: solid;
+    border-color: palevioletred;
+    width: 250px;
+}
